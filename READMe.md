@@ -73,7 +73,7 @@ A unique ID would be generated for each project created.
  
  Time to complete exercise
  
- 2 hours after setting up the environment
+ 2:45 hours after setting up the environment
  
  Difficulty: Moderate
  
