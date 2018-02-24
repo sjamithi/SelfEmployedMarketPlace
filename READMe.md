@@ -71,4 +71,15 @@ A unique ID would be generated for each project created.
  1. Projects are closed immediately as the lastDate exceeds today's Date
  2. http://localhost:8080/project/getById?id=2 shows the project with the least bid amount and project's status and winner so far but an assumption is made the bids are done for this project.
  
+ Time to complete exercise
+ 
+ 2 hours after setting up the environment
+ 
+ Difficulty: Moderate
+ 
+ How do you feel about exercise: 10
+ 
+ How do you feel about coding an exercise as a step in the interview process: 10
+ 
+ What would you change in the exercise or process: Nothing
  
